@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f1f6f5;
+}
+
+.current_index {
+  transition: 0.5s ease;
+}
+
+.not_current_index {
+  transition: 0.5s ease;
+}
